@@ -1218,6 +1218,14 @@ video {
   height: 54px;
 }
 
+.h-\[38px\] {
+  height: 38px;
+}
+
+.max-h-\[38px\] {
+  max-height: 38px;
+}
+
 .min-h-\[460px\] {
   min-height: 460px;
 }
@@ -1266,6 +1274,10 @@ video {
   width: 100%;
 }
 
+.w-\[150px\] {
+  width: 150px;
+}
+
 .min-w-\[250px\] {
   min-width: 250px;
 }
@@ -1276,6 +1288,10 @@ video {
 
 .min-w-\[670px\] {
   min-width: 670px;
+}
+
+.max-w-\[150px\] {
+  max-width: 150px;
 }
 
 .translate-x-5 {
